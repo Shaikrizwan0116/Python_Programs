@@ -6,5 +6,5 @@ for i in range(1,s+1):
 def table(num,s):
     for i in range(1,s+1):
         print(num,"*",i,"=",num*i)
-
+        
 print(table(5,10))
