@@ -23,7 +23,7 @@ for i in range(0,10,2):
         print(i)
 
 
-Continue
+# Continue
 
 for i in range(0,10):
     if i == 5:
@@ -44,7 +44,7 @@ for i in range(1,11):
     else:
         print(i)
 
-Pass
+# Pass
 
 a = 5
 b = 5
