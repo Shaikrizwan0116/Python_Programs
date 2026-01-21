@@ -6,7 +6,7 @@ print(s)
 
 print(type(s))
 
-adding
+
 s.add(10)
 print(s)
 s.add(20)
