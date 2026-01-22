@@ -21,3 +21,13 @@ def operate():
     return execute
 a = operate()
 a()
+
+#3. How to define a function in another function.
+
+def doubts():
+    print("Please ask the doubts")
+    def answer():
+        print("I will clear all the doubts at the last sessions")
+        print("Please be patient")
+    answer()
+doubts()
