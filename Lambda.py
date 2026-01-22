@@ -9,10 +9,14 @@
     # 8.lambda arguments:expression
 
 
-# y = lambda a,b:a+b
-# sum = y(1,2)
-# print(sum)
+y = lambda a,b:a+b
+sum = y(1,2)
+print(sum)
 
 y = lambda a,b:a*b
 mul = y(2,2)
 print(mul)
+
+lam = lambda a,b:a**b
+pow = lam(2,2)
+print(pow)
